@@ -22,7 +22,7 @@ I am currently on a career break to learn more about the technology behind the A
 
 **👩‍🔧 Professional Production Experience**
 
-- **Data Architecture**: Most Big Data Analytics Platforms (StarRocks, Clickhouse, Trino, Snowflake), Databases (SQL, NoSQL, Graph), Apache Kafka, Flink, Databricks, Spark, Common ETL myeahethods & tools
+- **Data Architecture**: Most Big Data Analytics Platforms (StarRocks, Clickhouse, Trino, Snowflake), Databases (SQL, NoSQL, Graph), Apache Kafka, Flink, Databricks, Spark, Common ETL methods & tools
 - **Programming**: Python, Jupyter, Linux, REST APIs, other common programming languages
 - **Cloud & Infrastructure**: AWS, Azure, GCP, Terraform, Docker, Kubernetes, Monitoring (Grafana, DataDog)
 
