@@ -1,4 +1,4 @@
-## 👩‍💻 Rachel Beddor
+# 👩‍💻 Rachel Beddor
 📍 San Francisco Bay Area, California
 
 🔗 [**Linkedin**](https://www.linkedin.com/in/rachel-beddor-a4763a106/) 
