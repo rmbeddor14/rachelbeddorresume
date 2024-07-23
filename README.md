@@ -49,7 +49,6 @@ I am currently on a career break to learn more about the technology behind the A
 - **Keysight Technologies, Product Marketing Engineer Intern** | Summers 2016, 2017
 - See details on [linkedin](https://www.linkedin.com/in/rachel-beddor-a4763a106/)
 
----
 
 ## Education
 
