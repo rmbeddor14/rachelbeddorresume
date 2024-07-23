@@ -27,7 +27,7 @@ I am currently on a career break to learn more about the technology behind the A
 *April 2024 - Present*
 
 - Attending events 2-3x a week covering topics like RAG, Computer Vision, Recommendation Algorithms etc
-- Participated in AGI House RAG Hackathon on June 29th, 2024 - https://github.com/rmbeddor14/CRM-optimizer-agihouse-0629-hackathon
+- Participated in AGI House RAG Hackathon on June 29th, 2024 - [github repo](https://github.com/rmbeddor14/CRM-optimizer-agihouse-0629-hackathon)
 
 ### ✨ CelerData (StarRocks)
 
@@ -47,7 +47,7 @@ I am currently on a career break to learn more about the technology behind the A
 - **Kyligence Inc., Solution Architect – Pre / Post Sales** | September 2020 – June 2022
 - **Microchip Technology, Product Marketing Engineer II** | June 2018 – September 2020
 - **Keysight Technologies, Product Marketing Engineer Intern** | Summers 2016, 2017
-- See details on linkedin - https://www.linkedin.com/in/rachel-beddor-a4763a106/
+- See details on [linkedin](https://www.linkedin.com/in/rachel-beddor-a4763a106/)
 
 ---
 
