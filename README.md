@@ -1,7 +1,9 @@
 # 👩‍💻 Rachel Beddor
-📍 San Francisco Bay Area, California
+Engineer | Solutions Architect | Enthusiast about RAG, LLMs, Vector Databases | 🔗 [Linkedin](https://www.linkedin.com/in/rachel-beddor-a4763a106/)
 
-🔗 [**Linkedin**](https://www.linkedin.com/in/rachel-beddor-a4763a106/) 
+📍 San Francisco Bay Area, California 
+
+
 
 
 
