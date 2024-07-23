@@ -1,8 +1,7 @@
 # 👩‍💻 Rachel Beddor
-Engineer | Solutions Architect | AI & Data Enthusiast  
-
-📍 San Francisco Bay Area, California 
-🔗 [Linkedin](https://www.linkedin.com/in/rachel-beddor-a4763a106/)
+Engineer | Solutions Architect | AI & Data Enthusiast<br>
+📍 San Francisco Bay Area, California<br>
+🔗 [LinkedIn](https://www.linkedin.com/in/rachel-beddor-a4763a106/)
 
 
 
