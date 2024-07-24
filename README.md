@@ -62,6 +62,6 @@ I am currently on a career break to learn more about the technology behind the A
 
 **B.S. Computer Engineering,** *May 2018*
 
-Concentration Areas: VLSI, Embedded Systems
+Concentration Areas: VLSI (Semiconductor Fabrication), Embedded Systems
 
 Certificate in Chinese Language (Mandarin/ 普通话)
