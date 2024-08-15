@@ -41,7 +41,7 @@ I am currently on a career break to learn more about the technology behind the A
 
 *October 2022 – April 2024*
 
-- **Achieving Results**: Led the POC that closed the company's first commercial deal in the US and led the customer through to production.
+- **Achieving Results**: Led the POC that closed the company's first commercial deal in the US and led the first customer through to production. Closed the first million dollar deal for the company. 
 - **Customer Engagement**: Created a framework for POCs that is goal-oriented, data-driven, and time-limited. Formed close bonds with customers by aligning interests to quickly achieve results that demonstrated clear business value.
 - **Architecture that Meets Goals & Makes Sense**: Developed real-time and batch analytics solutions that met business goals, fit existing architectures, and highlighted product features.
 - **Overcoming Challenges to Grow**: Worked closely with R&D to resolve software challenges, ensuring product reliability and preventing future issues. Maintained a positive attitude and effectively managed both internal and customer teams during high-stress situations.
