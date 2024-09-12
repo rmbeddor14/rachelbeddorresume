@@ -33,7 +33,7 @@ I am currently on a career break to learn more about the technology behind the A
 *April 2024 - Present*
 
 - Attending in-person events 2-3x a week covering topics like RAG, Computer Vision, Recommendation Algorithms etc
-- Participated in several Hack events. My favorite hands-on events have been hackathons at AGI House - I attended one focused on RAG in June ([github repo](https://github.com/rmbeddor14/CRM-optimizer-agihouse-0629-hackathon)) and another on AI Agents in August ([github repo](https://github.com/sakomws/love))
+- Participating in several Hack events. My favorite hands-on events have been hackathons at AGI House - I attended one focused on RAG in June ([github repo](https://github.com/rmbeddor14/CRM-optimizer-agihouse-0629-hackathon)) and another on AI Agents in August ([github repo](https://github.com/sakomws/love))
 - Became co-president of the Georgia Tech Bay Area Alumni Network - planning & marketing events to gather our local GT community
 - Completed Andrej Karpathy's "Zero to Hero" ML course, collaborating with a group of professionals through an in-person study group.
   
